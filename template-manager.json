@@ -2,7 +2,9 @@
   "templates": [
     {
       "name": "background flag",
-      "sources": ["https://imgur.com/a/ZCwKWOt"],
+      "sources": [
+        "https://cdn.discordapp.com/attachments/960013584279150623/1131750901057585173/image.png"
+      ],
       "x": 0,
       "y": 0
     }
