@@ -1,9 +1,9 @@
 {
   "templates": [
     {
-      "name": "background flag",
+      "name": "Bandeira principal",
       "sources": [
-        "https://cdn.discordapp.com/attachments/300429065872080897/1131753677762334891/image.png"
+        "https://raw.githubusercontent.com/VrituuRuby/r-br-place/main/brasil-main-1x.png"
       ],
       "x": 647,
       "y": 786
